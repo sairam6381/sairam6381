@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.cargocollective.com/1/10/325989/headerimg/WELCOME_BANNER_CC_SITE_V1_1-01-1.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sai Ram</h1>
 <h3 align="center">A passionate student in Rajalakshmi Engineering College</h3>
