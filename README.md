@@ -1,8 +1,9 @@
-[![MasterHead](https://media.cargocollective.com/1/10/325989/headerimg/WELCOME_BANNER_CC_SITE_V1_1-01-1.gif)](https://rishavchanda.io)
+
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sai Ram</h1>
 <h3 align="center">A passionate student in Rajalakshmi Engineering College</h3>
-<img align="right" alt="coding" width="400"src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="right" alt="coding" width="400"src="https://media2.giphy.com/media/5WJ6K7XnP2K2p3VWft/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairam6381&label=Profile%20views&color=0e75b6&style=flat" alt="sairam6381" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sai__official_" target="blank"><img src="https://img.shields.io/twitter/follow/sai__official_?logo=twitter&style=for-the-badge" alt="sai__official_" /></a> </p>
