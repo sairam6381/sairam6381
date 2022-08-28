@@ -1,5 +1,5 @@
 
-[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://rishavchanda.io)
+![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 
 <h1 align="center">Hi 👋, I'm Sai Ram</h1>
 <h3 align="center">A passionate student in Rajalakshmi Engineering College</h3>
