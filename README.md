@@ -28,6 +28,12 @@
 
 <p><br></p>
 
+## 📈LeetCode Stats:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sairam6381?theme=dark&font=Quicksand)
+
+<p><br></p>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sairam6381&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sairam6381&theme=dark&hide_border=false)<br/>
